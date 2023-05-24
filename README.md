@@ -2,7 +2,7 @@
 Mathematical geosciences (MG)
 
 
-[publications.png] Annual growth of documents in the mathematical geosciences related literature (1980–2023).
+[publications.png] Annual growth of documents in the mathematical geosciences related literature (1975–2023).
 
 
 [StyleCloud__2014.png] Keyword word clouds before 2014

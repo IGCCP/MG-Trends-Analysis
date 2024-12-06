@@ -11,6 +11,6 @@ Mathematical geosciences (MG)
 
 [**dynamic_network.gif**] Year-to-year Co-occurrence network between keywords for Computers & Geosciences
 
-[**dynamic_network.gif.pdf**] Splitting *dynamic_network.gif** into multiple static images
+[**dynamic_network.gif.pdf**] Split *dynamic_network.gif** into multiple static images
 
 [**representative words.png**] Top 10 keywords in different clusters from Computers & Geosciences. The size of the circle indicates the frequency of the keyword, and different colors indicate different clustering categories
